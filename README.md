@@ -1,7 +1,8 @@
 ## Stage 1
 
-To reproduce model and metrics just run all cels in [notebook](readability-score.ipynb) on Kaggle.
-You also need to import data from competion to your notebook.
+To reproduce model and metrics locally just run all cels in [notebook](readability-score.ipynb). You also need to import data from competion to your notebook.
+On Kaggle - https://www.kaggle.com/yuriihavrylko/readability-score
+
 Pretrained model stored in app folder [model.pkl](app/model.pkl).
 For embeddings used Sentence Transformers, model downloaded from HF automatically.
 
