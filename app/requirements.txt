@@ -2,3 +2,6 @@ sentence-transformers
 numpy
 scikit-learn
 flask
+gunicorn
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==1.13.0+cpu 
